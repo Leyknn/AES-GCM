@@ -1,0 +1,8 @@
+[package]
+name = "AES-GCM"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+getrandom = "0.3"
+cortex-m = "0.7.7"
