@@ -6,3 +6,4 @@ edition = "2021"
 [dependencies]
 getrandom = "0.3"
 cortex-m = "0.7.7"
+array-init = "2.1.0"
